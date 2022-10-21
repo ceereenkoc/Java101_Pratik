@@ -1,5 +1,5 @@
 # Java101
-Java101 dersi kapsamında oluşturduğum repository
+Java101 dersi kapsamında yaptığımız pratikler için oluşturulmuştur.
 
 ## Patika Adresim
 https://app.patika.dev/cerenimo
